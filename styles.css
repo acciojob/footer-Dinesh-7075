@@ -17,7 +17,7 @@
 .icons {
     position:relative;
     top:0px;
-    display: inline-block;
+    display: flex;
     margin-top:5px;
 }
 img {
